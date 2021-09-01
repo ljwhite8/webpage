@@ -157,7 +157,7 @@
   </div>
  
   <p align="center">
-    <embed src="attachments/grad_s.jpg" class=profile>
+    <embed src="attachments/White_Lien_Jin_2.jpg" class=profile>
   </p>
 
   <p class=title align="center">
