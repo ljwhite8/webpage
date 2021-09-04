@@ -186,8 +186,8 @@
       <a href="attachments/JOOEE.png" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
-            <b>Numerical Simulator for Lunar Tumbling Robot:</b>
-            <p>Corner Balance</p>
+            <b>CAN Sarlacc Adapter:</b>
+            <p>Board and Software</p>
           </div>
         </div>
       </a>
@@ -197,8 +197,8 @@
       <a href="attachments/FIP.png" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
-            <b>Optimal Control for Lunar Tumbling Robot:</b>
-            <p>Flywheel Inverted Pendulum Model</p>
+            <b>Paragon Space Development:</b>
+            <p>MSEPA Chassis</p>
           </div>
         </div>
       </a>
@@ -210,8 +210,8 @@
       <a href="attachments/UAVUGVcouple.jpg" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
-            <b>Autonomous Coupling of a UAV and UGV:</b>
-            <p>Coupled configuration</p>
+            <b>Mesh Networking:</b>
+            <p>NASA Big IDEA CHallenge</p>
           </div>
         </div>
       </a>
@@ -221,8 +221,8 @@
       <a href="attachments/lift.gif" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
-            <b>Autonomous Coupling of a UAV and UGV:</b>
-            <p>Lifting phase</p>
+            <b>Foldable Wing Robotics</b>
+            <p>EGR 555: Foldable Robotics</p>
           </div>
         </div>
       </a>
@@ -234,8 +234,8 @@
       <a href="attachments/2wdFC.jpg" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
-            <b>2WD Self Balancing Robot:</b>
-            <p>Final Assembly</p>
+            <b>Teaching Assistant:</b>
+            <p>EGR 304/314 Embedded Systems</p>
           </div>
         </div>
       </a>
@@ -245,8 +245,8 @@
       <a href="attachments/2wdRO.jpg" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
-            <b>2WD Self Balancing Robot:</b>
-            <p>Rear Internals</p>
+            <b>Crane Machine:</b>
+            <p>EGR 314: Embedded Sytsems Design II</p>
           </div>
         </div>
       </a>
@@ -258,8 +258,8 @@
       <a href="attachments/piclip.jpg" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
-            <b>PiClip Controller:</b>
-            <p>Final Assembly</p>
+            <b>Street Sweeper:</b>
+            <p>EGR 304: Embedded Sytsems Design I</p>
           </div>
         </div>
       </a>
