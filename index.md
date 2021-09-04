@@ -178,7 +178,7 @@
   </div>
 
   <p align="center">  
-    <a href="attachments/ChristopherDBreauxResume.pdf" download><embed src="attachments/ChristopherDBreauxResume.pdf" class=pdf></a>
+    <a href="attachments/White_Lien_Resume.pdf" download><embed src="attachments/White_Lien_Resume.pdf" class=pdf></a>
   </p>
   
   <div class=galleryrow>
