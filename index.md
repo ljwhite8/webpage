@@ -149,7 +149,7 @@
 <body>
   <div class=headrow>
     <div class=headcolumn align="left" style="width:40%">
-        <embed src="attachments/phone.png" class=headicon> <a href="tel:513-708-1629" class=headtext>(513)708-1629</a>
+        <embed src="attachments/phone.jpg" class=headicon> <a href="tel:513-708-1629" class=headtext>(513)708-1629</a>
     </div>
     <div class=headcolumn align="right" style="width:60%">
         <embed src="attachments/email.png" class=headicon> <a href="mailto:lienwhite7@gmail.com" class=headtext>lienwhite7@gmail.com</a>
