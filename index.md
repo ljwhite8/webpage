@@ -169,15 +169,11 @@
 
   <div class="linkrow">
     <div class="linkcolumn" align="center" style ="background-image: url('attachments/GitHub.png');">
-      <a href="https://github.com/ChristopherDBreaux"><div class=linkoverlay></div></a>
+      <a href="https://github.com/Lien-White"><div class=linkoverlay></div></a>
     </div>
     <div class=linkgap></div>
-    <div class="linkcolumn" align="center" style ="background-image: url('attachments/grabcad.png');">
-      <a href="https://grabcad.com/chris.breaux-2"><div class=linkoverlay></div></a>
-    </div>
-    <div class=linkgap></div>
-    <div class="linkcolumn" align="center" style ="background-image: url('attachments/Youtube.png');">
-      <a href="https://www.youtube.com/channel/UCijZ58t9ZG3zz0C_Nx5GveQ"><div class=linkoverlay></div></a>
+    <div class="linkcolumn" align="center" style ="background-image: url('___IMAGE OF LOGO___');">
+      <a href="____INSERT LINK HERE___"><div class=linkoverlay></div></a>
     </div>
   </div>
 
