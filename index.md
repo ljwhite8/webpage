@@ -182,7 +182,7 @@
   </div>
 
   <p align="center">  
-    <a href="attachments/White_Lien_Resume.pdf" download><embed src="attachments/White_Lien_Resume.pdf" class=pdf></a>
+    <a href="attachments/White_Lien_Resume.pdf" class="image fit"><img src="attatchments/resume.png" alt=""></a>
   </p>
   
   <div class=galleryrow>
