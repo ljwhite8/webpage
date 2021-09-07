@@ -203,6 +203,16 @@
         </div>
       </a>
     </div>
+    <div class=gallerycolumn align="center" style="background-image: url('attachments/UAVUGVcouple.jpg');">
+      <a href="attachments/UAVUGVcouple.jpg" style="text-decoration: none;">
+        <div class=galleryoverlay>
+          <div class=gallerytext>
+            <b>Mesh Networking:</b>
+            <p>NASA Big IDEA CHallenge</p>
+          </div>
+        </div>
+      </a>
+    </div>
   </div>
   
   <div class=galleryrow>
@@ -295,30 +305,6 @@
           <div class=gallerytext>
             <b>Foldable Robotics:</b>
             <p>Wing Simulation</p>
-          </div>
-        </div>
-      </a>
-    </div>
-  </div>
-  
-  <div class=galleryrow>
-    <div class=gallerycolumn align="center" style="background-image: url('attachments/penguin.jpg');">
-      <a href="attachments/penguin.jpg" style="text-decoration: none;">
-        <div class=galleryoverlay>
-          <div class=gallerytext>
-            <b>Bio-Inspired Robotics:</b>
-            <p>Penguin-Inspired Bubbler Internals</p>
-          </div>
-        </div>
-      </a>
-    </div>
-    <div class=gallerygap></div>
-    <div class=gallerycolumn align="center" style="background-image: url('attachments/bubbler.gif');">
-      <a href="attachments/bubbler.gif" style="text-decoration: none;">
-        <div class=galleryoverlay>
-          <div class=gallerytext>
-            <b>Bio-Inspired Robotics:</b>
-            <p>Penguin-Inspired Bubbler Test</p>
           </div>
         </div>
       </a>
