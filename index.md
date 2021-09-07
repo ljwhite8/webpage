@@ -172,7 +172,7 @@
       <a href="https://github.com/Lien-White"><div class=linkoverlay></div></a>
     </div>
     <div class=linkgap></div>
-    <div class="linkcolumn" align="center" style ="background-image: url('attatchments/LinkedIn_Logo.svg.png');">
+    <div class="linkcolumn" align="center" style ="background-image: url('attachments/LinkedIn_Logo.svg.png');">
       <a href="https://www.linkedin.com/in/lien-white"><div class=linkoverlay></div></a>
     </div>
   </div>
