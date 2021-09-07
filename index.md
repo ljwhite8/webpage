@@ -168,7 +168,7 @@
   </p>
 
   <div class="linkrow">
-    <div class="linkcolumn" align="center" style ="background-image: url('attachments/GitHub.png');">
+    <div class="linkcolumn" align="center" style ="background-image: url('attachments/GitHubLogo.png');">
       <a href="https://github.com/Lien-White"><div class=linkoverlay></div></a>
     </div>
     <div class=linkgap></div>
