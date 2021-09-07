@@ -175,6 +175,10 @@
     <div class="linkcolumn" align="center" style ="background-image: url('attachments/LinkedIn_Logo.svg.png');">
       <a href="https://www.linkedin.com/in/lien-white"><div class=linkoverlay></div></a>
     </div>
+    <div class=linkgap></div>
+    <div class="linkcolumn" align="center" style ="background-image: url('attachments/Luminosity.png');">
+      <a href="https://theluminositylab.com/"><div class=linkoverlay></div></a>
+    </div>
   </div>
 
   <p align="center">  
