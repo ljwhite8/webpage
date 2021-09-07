@@ -203,16 +203,6 @@
         </div>
       </a>
     </div>
-    <div class=gallerycolumn align="center" style="background-image: url('attachments/UAVUGVcouple.jpg');">
-      <a href="attachments/UAVUGVcouple.jpg" style="text-decoration: none;">
-        <div class=galleryoverlay>
-          <div class=gallerytext>
-            <b>Mesh Networking:</b>
-            <p>NASA Big IDEA CHallenge</p>
-          </div>
-        </div>
-      </a>
-    </div>
   </div>
   
   <div class=galleryrow>
