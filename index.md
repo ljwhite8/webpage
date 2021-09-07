@@ -2,7 +2,7 @@
 <style>
   body{
     font-family:Arial;
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('attachments/download.jfif');
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('attachments/backdrop.jfif');
     background-repeat: no-repeat;
     background-size:cover;
     background-attachment: fixed;
