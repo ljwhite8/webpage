@@ -210,8 +210,8 @@
   </div>
   
   <div class=galleryrow>
-    <div class=gallerycolumn align="center" style="background-image: url('attachments/UAVUGVcouple.jpg');">
-      <a href="attachments/UAVUGVcouple.jpg" style="text-decoration: none;">
+    <div class=gallerycolumn align="center" style="background-image: url('attachments/VELOS_Poster.png');">
+      <a href="attachments/VELOS_Poster.png" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
             <b>Mesh Networking:</b>
@@ -282,8 +282,8 @@
   </div>
   
   <div class=galleryrow>
-    <div class=gallerycolumn align="center" style="background-image: url('attachments/wingproto.gif');">
-      <a href="attachments/wingproto.gif" style="text-decoration: none;">
+    <div class=gallerycolumn align="center" style="background-image: url('attachments/BIRB.png');">
+      <a href="https://biodegradablerobotics.github.io/" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
             <b>Foldable Robotics:</b>
