@@ -164,7 +164,7 @@
     Lien White
   </p>
   <p class=subtitle align="center">
-    Robotics Engineering - Electrical Engineering Co-Op
+    Robotics Engineering - Electrical Engineering Co-Op - Aspiring Master's Student
   </p>
 
   <div class="linkrow">
@@ -186,8 +186,8 @@
   </p>
   
   <div class=galleryrow>
-    <div class=gallerycolumn align="center" style="background-image: url('attachments/JOOEE.png');">
-      <a href="attachments/JOOEE.png" style="text-decoration: none;">
+    <div class=gallerycolumn align="center" style="background-image: url('attachments/CAN_Sarlacc_V1.png');">
+      <a href="CAN_Sarlacc_V1.png" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
             <b>CAN Sarlacc Adapter:</b>
