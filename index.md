@@ -147,6 +147,63 @@
 </style>
   
 <body>
+  <div class="navbar-spacer"></div>
+    <nav class="navbar">
+      <div class="container">
+        <ul class="navbar-list">
+          <li class="navbar-item"><a class="navbar-link" href="#intro">Intro</a></li>
+          <li class="navbar-item">
+            <a class="navbar-link" href="#" data-popover="#fmNavPopover">First Mode Co-op</a>
+            <div id="fmNavPopover" class="popover">
+              <ul class="popover-list">
+                <li class="popover-item">
+                  <a class="popover-link" href="#sarlacc">CAN Sarlacc</a>
+                </li>
+                <li class="popover-item">
+                  <a class="popover-link" href="#dsoc">DSOC</a>
+                 </li> 
+            <a class="navbar-link" href="#" data-popover="#lumNavPopover">Luminosity</a>
+            <div id="lumNavPopover" class="popover">
+              <ul class="popover-list">
+                <li class="popover-item">
+                  <a class="popover-link" href="#NASA">NASA Big Idea Challenge</a>
+                </li>
+                <li class="popover-item">
+                  <a class="popover-link" href="#smart">Smart Cities</a>
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li class="navbar-item"><a class="navbar-link" href="#passion">Other Passions</a></li>
+          <li class="navbar-item">
+            <a class="navbar-link" href="#" data-popover="#schoolNavPopover">School Projects</a>
+            <div id="schoolNavPopover" class="popover">
+              <ul class="popover-list">
+                <li class="popover-item">
+                  <a class="popover-link" href="https://github.com/dhg/Skeleton">On Github</a>
+                </li>
+                <li class="popover-item">
+                  <a class="popover-link" href="https://github.com/dhg/Skeleton#browser-support">Browsers</a>
+                </li>
+                <li class="popover-item">
+                  <a class="popover-link" href="https://github.com/dhg/Skeleton#license">License</a>
+                </li>
+                <li class="popover-item">
+                  <a class="popover-link" href="https://github.com/dhg/Skeleton#extensions">Extensions</a>
+                </li>
+                <li class="popover-item">
+                  <a class="popover-link" href="https://github.com/dhg/Skeleton/releases">Versions</a>
+                </li>
+                <li class="popover-item">
+                  <a class="popover-link" href="https://github.com/dhg/Skeleton#colophon">Colophon</a>
+                </li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
   <div class=headrow>
     <div class=headcolumn align="left" style="width:40%">
         <embed src="attachments/phone.jpg" class=headicon> <a href="tel:513-708-1629" class=headtext>(513)708-1629</a>
