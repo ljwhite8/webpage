@@ -151,7 +151,7 @@
     <nav class="navbar">
       <div class="container">
         <ul class="navbar-list">
-          <li class="navbar-item"><a class="navbar-link" href="#intro">Intro</a></li>
+          <li class="navbar-item"><a class="navbar-link" href="#intro">Intro to Lien</a></li>
           <li class="navbar-item">
             <a class="navbar-link" href="#" data-popover="#fmNavPopover">First Mode Co-op</a>
             <div id="fmNavPopover" class="popover">
